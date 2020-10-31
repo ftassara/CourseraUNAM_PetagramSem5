@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Petagram</string>
+    <string name="nombre">Perro1</string>
+    <string name="rating">0</string>
+    <string name="mascota">Mascota</string>
+    <string name="menuAbout">Acerca de</string>
+    <string name="menuContact">Contacto</string>
+    <string name="hintName">Ingrese su nombre completo</string>
+    <string name="hintComentario">Ingrese su comentario aqui:</string>
+    <string name="hintmail">name@mail.com</string>
+    <string name="tituloMail">Mail</string>
+    <string name="tituloComentario">Comentario</string>
+    <string name="btnComentario">Enviar Comentario</string>
+    <string name="bio1">Acerca de:</string>
+    <string name="bio2">Francisco Tassara</string>
+    <string name="bio3">Argentina</string>
+    <string name="bio4">Android Developer Student</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
