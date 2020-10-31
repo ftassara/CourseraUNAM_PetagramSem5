@@ -27,7 +27,7 @@ public class ConstrutorMascotas {
     public ArrayList<Mascotas> obtenerFavMascotas(){
 
         BaseDatos db = new BaseDatos(mContext);
-//        insertarMascotas(db);
+        insertarMascotas(db);
         Log.d("ConstructorMascotas","obtenerFavMascotas");
         return db.obtenerFavMascotas();
     }
